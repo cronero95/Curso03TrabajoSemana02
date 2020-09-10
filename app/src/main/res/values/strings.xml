@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agregar Contacto</string>
+    <string name="texto_nombre">Nombre Completo</string>
+    <string name="texto_fecha">Fecha de Nacimiento</string>
+    <string name="texto_telefono">Teléfono</string>
+    <string name="texto_correo">Correo Electrónico</string>
+    <string name="texto_descripcion">Descripción de Contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_editar_datos">Editar Datos</string>
+    <string name="texto_confirmar">Confirmar Datos</string>
+</resources>
